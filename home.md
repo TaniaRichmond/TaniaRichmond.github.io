@@ -1,3 +1,7 @@
+layout: page
+title: "HOME"
+permalink: /home
+
 # Home
 
 Researcher in Computer Science
