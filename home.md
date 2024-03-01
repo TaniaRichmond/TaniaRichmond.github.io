@@ -1,12 +1,13 @@
 layout: page
 title: "HOME"
+author: TaniaRichmond
 permalink: /home
 
 # Home
 
 Associate Professor in Computer Science at the University of New-Caledonia
 
-## Presentation
+## About me
 
 I am currently working as an associate professor in Computer Science at the University of New-Caledonia, in Noumea (New-Caledonia). 
 
@@ -21,3 +22,7 @@ Defended on October 24th, 2016, at the Hubert Curien Laboratory in Saint-Etienne
 ## PhD supervision
 
 I was co-supervising a PhD student at IRISA, namely Agathe Cheriere, with Pierre Loidreau. She started her PhD thesis in November 2020 and defended it on December 19th, 2023 on the topic: *Side-channel resistance of cryptographic primitives based on error-correcting codes*.
+
+## Projects/fundings
+
+## Awards
