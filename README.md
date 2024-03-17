@@ -8,6 +8,6 @@ Pour accéder à la version française, cliquer [ici](/accueil.md).
 
 ## English
 
-I am currently an Associate Professor at the University of New Caledonia (UNC).
+I am currently an Associate Professor in Computer Science at the University of New Caledonia (UNC).
 
 To access the English version, click [here](/home.md).
