@@ -1,9 +1,3 @@
-[comment]: # (layout: page)
-[comment]: # (title: "ACCUEIL")
-[comment]: # (author: TaniaRichmond)
-[comment]: # (permalink: /accueil)
-[comment]: # (last udpate: 2024.03.17)
-
 # Accueil
 
 Maîtresse de conférences (MCF) en Informatique (Section CNU 27) à l'Université de la Nouvelle-Calédonie (UNC).
