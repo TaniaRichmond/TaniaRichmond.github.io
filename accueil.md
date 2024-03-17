@@ -1,7 +1,8 @@
-layout: page
-title: "ACCUEIL"
-author: TaniaRichmond
-permalink: /accueil
+%layout: page
+%title: "ACCUEIL"
+%author: TaniaRichmond
+%permalink: /accueil
+%last udpate: 2024.03.17
 
 # Accueil
 
@@ -27,18 +28,6 @@ J'ai effectué toute ma scolarité jusqu'au Baccalauréat Scientifique (obtenu e
 
 Soutenue le 24 Octobre 2016, au Laboratoire Hubert Curien à Saint-Etienne, France. 
 
-### Co-encadrements de thèses
+### Co-encadrement de thèses
 
-I was co-supervising a PhD student at IRISA, namely Agathe Cheriere, with Pierre Loidreau. She started her PhD thesis in November 2020 and defended it on December 19th, 2023 on the topic: *Side-channel resistance of cryptographic primitives based on error-correcting codes*.
-
-### Projets/financements
-
-### Prix/distinctions
-
-## Enseignements
-
-- 2016/2017 :
-- 2015/2016 :
-- 2012/2015 :
-1. Télécom Saint-Etienne
-2. IUT de Saint-Etienne
+J'ai co-encadrée la thèse d'Agathe Cheriere, avec Pierre Loidreau et Benoît Gérard, au laboratoire IRISA à Rennes. Cette thèse a débuté en Novembre 2020 et été soutenue le 19 Décembre 2023, sur le sujet : *Side-channel resistance of cryptographic primitives based on error-correcting codes*.
