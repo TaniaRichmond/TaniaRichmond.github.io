@@ -5,7 +5,7 @@ permalink: /accueil
 
 # Accueil
 
-Maîtresse de conférences (MCF) en Informatique (Section CNU 27) à l'Université de la Nouvelle-Caledonie (UNC).
+Maîtresse de conférences (MCF) en Informatique (Section CNU 27) à l'Université de la Nouvelle-Calédonie (UNC).
 
 ## Mon parcours
 
@@ -13,11 +13,11 @@ Maîtresse de conférences (MCF) en Informatique (Section CNU 27) à l'Universit
 
 Je travaille actuellement en tant que maîtresse de conférences (MCF) en Informatique (Section CNU 27) à l'Université de la Nouvelle-Caledonie (UNC), à [Nouméa (Nouvelle-Calédonie)](https://www.google.fr/maps/place/Noum%C3%A9a+98800,+Nouvelle-Cal%C3%A9donie/@-22.2643574,166.4448668,13z/data=!3m1!4b1!4m6!3m5!1s0x6c27e2693f1a32cb:0x7bf1b22af312dd00!8m2!3d-22.2716866!4d166.4398627!16zL20vMDI1ZHpi?entry=ttu). 
 
-Previously, I worked for the French Ministry of Armies at DGA-MI, in Bruz (France), from September 2020 to February 2023. I was a Postdoctoral Fellow in Computer Science from September 2017 to August 2020, in the TAMIS team of Inria Rennes - Bretagne Atlantique, at Univ Rennes, Inria, CNRS, IRISA, in Rennes (France). I was a Temporary Teaching and Research Assistant in Computer Science from October 2015 to August 2017, at the Computer Science and Applied Algebra group in the IMATH Laboratory, at the Toulon's University, in La Garde (France). I was a PhD student in Computer Science from October 2012 to October 2016 at the Embedded System Security and Hardware Architecture group in the Hubert Curien Laboratory, at the Jean Monnet University in Saint-Étienne (France), under the supervision of Viktor Fischer and Pierre-Louis Cayrel.
+Prédédemment, j'ai travaillé pour le Ministère des Armées, à la Direction Générale de l'Armement - Maîtise de l'Information (DGA-MI), à Bruz (France), de Septembre 2020 à Février 2023. J'ai effectué trois années de post-doctorat, de Septembre 2017 à Août 2020, dans l'équipe TAMIS d'Inria Rennes - Bretagne Atlantique, à Rennes (France). J'ai été ATER (Attachée Temporaire d'Enseignements et de Recherche) en Informatique, d'Octobre 2015 à Août 2017, dans l'équipe IAA du laboratoire IMATH à l'Université de Toulon, à La Garde (France). Enfin auparavant j'ai été doctorante en Informatique, d'Octobre 2012 à Septembre 2015, dans l'équipe SESAM du laboratoire Laboratoire Hubert Curien à l'Université Jean Monnet, à Saint-Etienne (France), sous la direction de Viktor Fischer et co-encadrée par Pierre-Louis Cayrel.
 
 ### Formation
 
-J'ai effectué toute ma scolarité jusqu'au Baccalauréat Scientifique (obtenu en 2006) en Nouvelle-Calédonie, ainsi qu'une Licence Mathématiques-Informatique (obtenue en 2010).
+J'ai effectué toute ma scolarité jusqu'au Baccalauréat Scientifique (obtenu en 2006) en Nouvelle-Calédonie, ainsi qu'une Licence Mathématiques-Informatique à l'UNC (obtenue en 2010). J'ai ensuite poursuivi mes études en France métropolitaine, dans le Master CSI de Bordeaux de 2010 à 2012, puis en thèse de Doctorat à Saint-Etienne.
 
 ## Recherche
 
