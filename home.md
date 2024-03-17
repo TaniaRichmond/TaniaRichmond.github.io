@@ -12,7 +12,7 @@ Previously, I worked for the French Ministry of Armies at DGA-MI, in Bruz (Franc
 
 ### Education
 
-I completed all my schooling upto Scientific Baccalaureate (obtained in 2006) in New-Caledonia, and a Bachelor's degree in Mathematics and Computer Science (obtained in 2010) at the University of New-Caledonia.
+I completed all my schooling upto Scientific Baccalaureate (obtained in 2006) in New-Caledonia, and a Bachelor's degree in Mathematics and Computer Science (obtained in 2010) at the University of New-Caledonia. Then I moved to metropolitain France to complete a Master degree in Mathematics (obtained in 2012) and a Ph.D. in Computer Science (obtained in 2016). 
 
 ## PhD topic
 
@@ -22,4 +22,4 @@ Defended on October 24th, 2016, at the Hubert Curien Laboratory in Saint-Etienne
 
 ## PhD supervision
 
-I was co-supervising a PhD student at IRISA, namely Agathe Cheriere, with Pierre Loidreau. She started her PhD thesis in November 2020 and defended it on December 19th, 2023 on the topic: *Side-channel resistance of cryptographic primitives based on error-correcting codes*.
+I was co-supervising a PhD student at IRISA, namely Agathe Cheriere, with Pierre Loidreau and Benoît Gérard. Agathe started her PhD thesis in November 2020 and defended it on December 19th, 2023 on the topic: *Side-channel resistance of cryptographic primitives based on error-correcting codes*.
