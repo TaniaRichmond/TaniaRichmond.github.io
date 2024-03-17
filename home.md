@@ -12,7 +12,7 @@ Previously, I worked for the French Ministry of Armies at DGA-MI, in Bruz (Franc
 
 ### Education
 
-I completed all my schooling upto Scientific Baccalaureate (obtained in 2006) in New-Caledonia, and a Bachelor's degree in Mathematics and Computer Science (obtained in 2010) at the University of New-Caledonia. Then I moved to metropolitain France to complete a Master degree in Mathematics (obtained in 2012) and a Ph.D. in Computer Science (obtained in 2016). 
+I completed all my schooling upto Scientific Baccalaureate (obtained in 2006) in New-Caledonia, and a Bachelor's degree in Mathematics and Computer Science (obtained in 2010) at the University of New-Caledonia. Then I moved to metropolitain France to complete a Master degree in Mathematics at the University of Bordeaux (obtained in 2012) and a Ph.D. in Computer Science at the Jean Monnet University in Saint-Etienne (obtained in 2016). 
 
 ## PhD topic
 
