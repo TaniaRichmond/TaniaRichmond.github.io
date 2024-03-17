@@ -1,8 +1,8 @@
-%layout: page
-%title: "ACCUEIL"
-%author: TaniaRichmond
-%permalink: /accueil
-%last udpate: 2024.03.17
+[comment]: # (layout: page)
+[comment]: # (title: "ACCUEIL")
+[comment]: # (author: TaniaRichmond)
+[comment]: # (permalink: /accueil)
+[comment]: # (last udpate: 2024.03.17)
 
 # Accueil
 
